@@ -11,7 +11,7 @@ This project demonstrates a simple popup notification that can be triggered upon
 ## How to Use
 
 ### 1. View the Live Demo
-You can see a live demo of this project here: [View Live Demo](#)
+You can see a live demo of this project here: [View Live Demo](https://yahyanawabi.github.io/Popup-Notification/)
 
 ### 2. Files Structure
 - **index.html**: The main HTML file containing the structure of the popup notification and button.
